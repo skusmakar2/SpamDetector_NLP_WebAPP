@@ -6,7 +6,7 @@
 
 Dataset Repository: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
-Excess the cloud deployment on: https://quit-attempt-prediction-api.herokuapp.com/
+Excess the cloud deployment on: https://spam-detector-nlpmodel.herokuapp.com/
 
 ## Ongoing
 
